@@ -1,6 +1,3 @@
-Here's the updated README reflecting the additional technologies:
-
----
 
 # 3D Portfolio
 
@@ -59,8 +56,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or inquiries, connect on [LinkedIn](your-linkedin-profile) or email at [info@jethertechnology.net.ng](mailto:info@jethertechnology.net.ng).
+For questions or inquiries, connect on [LinkedIn](https://www.linkedin.com/in/gideon-idemudia-261a5b260/) or email at [info@jethertechnology.net.ng](mailto:info@jethertechnology.net.ng).
 
---- 
 
-Feel free to make any additional customizations!
